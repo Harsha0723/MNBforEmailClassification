@@ -1,0 +1,2 @@
+# MNBforEmailClassification
+ MNB-BagOfWords-SpamandHam
